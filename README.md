@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ashokk-mastech
 - 👀 I’m interested in learning and managing infra as a code { IAAC }
 - 🌱 I’m currently learning AWS and AZURE clouds along with other cloud native applications..
+-  Have working experience in various flavours of Linux like Redhat, CentOS, Ubuntu, Fedora..
 
 
 <!---
