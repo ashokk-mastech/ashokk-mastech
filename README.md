@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ashokk-mastech
-- 👀 I’m interested in learning and managing cloud infrastructures - infra as a code { IAAC }
-- 🌱 I’m currently learning and working on AWS and AZURE clouds services..
--  Have working experience in various flavours of Linux distributions, such as Redhat, CentOS, Fedora, Ubuntu, etc..
+- 👋 Hi, I'm @ashokk-mastech.
+- 👀 I'm interested in learning and managing cloud infrastructures, specifically Infrastructure as Code (IaC).
+- 🌱 I'm currently learning and working with AWS and Azure cloud services.
+- ✨ I have working experience with various Linux distributions, such as Red Hat, CentOS, Fedora, Ubuntu, etc.
 
 
 <!---
